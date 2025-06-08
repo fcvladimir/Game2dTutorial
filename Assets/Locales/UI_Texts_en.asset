@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_Texts_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: c602a1c33cb374a64ae93e9c7aceac53, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 737105928192
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 241704099840
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6185351634944
+    m_Localized: Levels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6495780462592
+    m_Localized: Are you sure you want to exit?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6705147535360
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6883753582592
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6934848593920
+    m_Localized: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7628443869184
+    m_Localized: "A huge thanks to my children \u2014 my true co-creators of this
+      game.\nThank you for being there from the very beginning: helping to design
+      characters, testing levels, finding bugs, and asking questions that often caught
+      me off guard.\n\nYour fresh ideas, creative thinking, and genuine curiosity
+      inspired me every single day.\nYou made this process not only productive but
+      incredibly fun. Even when you \u201Cbroke\u201D the game in the most unexpected
+      ways \u2014 that\u2019s when it became better.\n\nThank you for your patience
+      when I asked you to \u201Cplay just one more round,\u201D for the joy with
+      which you shared your feedback, and for believing that it would all come together.\nWithout
+      you, this game would be completely different \u2014 and definitely not as alive.\n\nWith
+      love and endless gratitude,\nThe best DAD ever\n\n!!!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 631569705328640
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 631566349885440
+    m_Localized: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 631412070801408
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 632200734171136
+    m_Localized: Main menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 632274621030400
+    m_Localized: Next level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 632343831240704
+    m_Localized: Congratulations !!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300612803387392
+    m_Localized: 1<br>Tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300741140701184
+    m_Localized: 2<br>So Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300758408650752
+    m_Localized: 3<br>Gipnotic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300776096030720
+    m_Localized: 4<br>ZigZag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300797835108352
+    m_Localized: 5<br>Spiral
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300814331305984
+    m_Localized: 6<br>Pit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300830336770048
+    m_Localized: 7<br>Free Fall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300849840283648
+    m_Localized: 8<br>Up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300872141398016
+    m_Localized: 9<br>Waving
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300891921735680
+    m_Localized: 10<br>Piramid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10830026931953664
+    m_Localized: Jump
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
